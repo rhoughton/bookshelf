@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Temperature Conversion execise
 main(){
     int f, c;
     int start, limit, incr;
@@ -50,3 +51,36 @@ main(){
 }
 
  */
+
+
+main(){
+int c;
+c=getchar();
+while (c!=EOF){
+    putchar(c);
+    c = getchar();
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
